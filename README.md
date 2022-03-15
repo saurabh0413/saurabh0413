@@ -8,7 +8,7 @@
    🤝 I am open to collaborate on any project that is impactful and makes the world a better place. <br/>
    ⚡ I like to watch web series & movies, I also follow cricket.<br/>
    🔭 I’m currently working on [My Portfolio].<br/>
-  🗺️ Want to know more? Check out my portfolio <a href="https://sharma.netlify.app/"> here 🔗</a>. <br/>
+  🗺️ Want to know more? Check out my portfolio <a href="https://saurabhfarkade.netlify.app/"> here 🔗</a>. <br/>
 </p>
 
 <h3 align="left">My Tools & Tech Stack 🛠️:</h3>
@@ -28,7 +28,7 @@
     <a href="mailto:saurabh.farkade13@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <a href="https://in.linkedin.com/in/saurabhf"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://twitter.com/imD1nesh"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-    <a target="_blank" href="https://dineshsharma.netlify.app"> <img src="https://img.shields.io/badge/-Portfolio-FFCC1D?style=for-the-badge&logo=Apostrophe&logoColor=white"></a>
+    <a target="_blank" href="https://saurabhfarkade.netlify.app/"> <img src="https://img.shields.io/badge/-Portfolio-FFCC1D?style=for-the-badge&logo=Apostrophe&logoColor=white"></a>
 
 </p>
 
