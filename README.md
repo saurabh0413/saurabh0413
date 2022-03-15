@@ -1,4 +1,4 @@
-<h1 align="left">Hi, <img src="https://raw.githubusercontent.com/srikanta30/srikanta30/main/assets/wave.gif" width="30px"> I'm Dinesh Sharma</h1>
+<h1 align="left">Hi, <img src="https://raw.githubusercontent.com/srikanta30/srikanta30/main/assets/wave.gif" width="30px"> I'm Saurabh Farkade</h1>
 <h4 align="left">An aspiring full stack developer with a specialization in 💻 MERN stack. Keenly interested in problem-solving and making user-centric products, self-motivated and curious. Looking forward to honing my skills in a challenging work environment.</h4>
 <img align='right' src="https://c.tenor.com/aD7y5Tg9BzwAAAAC/web-design-modern-web-gif.gif" width="230">
 
@@ -8,7 +8,7 @@
    🤝 I am open to collaborate on any project that is impactful and makes the world a better place. <br/>
    ⚡ I like to watch web series & movies, I also follow cricket.<br/>
    🔭 I’m currently working on [My Portfolio].<br/>
-  🗺️ Want to know more? Check out my portfolio <a href="https://dineshsharma.netlify.app/"> here 🔗</a>. <br/>
+  🗺️ Want to know more? Check out my portfolio <a href="https://sharma.netlify.app/"> here 🔗</a>. <br/>
 </p>
 
 <h3 align="left">My Tools & Tech Stack 🛠️:</h3>
@@ -25,8 +25,8 @@
   <h3 align="left">Connect with me 👇:</h3>
 
   <p align="left">
-    <a href="mailto:dinoweblog@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-    <a href="https://in.linkedin.com/in/dino-web"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:saurabh.farkade13@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+    <a href="https://in.linkedin.com/in/saurabhf"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://twitter.com/imD1nesh"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
     <a target="_blank" href="https://dineshsharma.netlify.app"> <img src="https://img.shields.io/badge/-Portfolio-FFCC1D?style=for-the-badge&logo=Apostrophe&logoColor=white"></a>
 
@@ -39,12 +39,12 @@
   <br/>
   <br/>
 </p> -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinoweblog-github-username&color=8e8cd8" alt="dinoweblog" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh0413-github-username&color=8e8cd8" alt="saurabh0413" /> </p> -->
 
-<p><img width="50%" border="1" margin-bottom= "30" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinoweblog&show_icons=true&locale=en&layout=compact" alt="dinoweblog" /></p> <br> <br>
+<p><img width="50%" border="1" margin-bottom= "30" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh0413&show_icons=true&locale=en&layout=compact" alt="saurabh0413" /></p> <br> <br>
 
-<p>&nbsp;<img width="50%"  margin-top="30" align="left" src="https://github-readme-stats.vercel.app/api?username=dinoweblog&show_icons=true&locale=en" alt="dinoweblog" /></p> <br> 
+<p>&nbsp;<img width="50%"  margin-top="30" align="left" src="https://github-readme-stats.vercel.app/api?username=saurabh0413&show_icons=true&locale=en" alt="saurabh0413" /></p> <br> 
 
-<p><img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dinoweblog&" alt="dinoweblog" /></p>
+<p><img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh0413&" alt="saurabh0413" /></p>
 
 
