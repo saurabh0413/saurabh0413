@@ -6,7 +6,7 @@
 - 💬 Ask me about **node.js , express.js , javascript,react **
 
 - 📫 How to reach me **saurabhfarkade83@gmail.com**
--  Portfolio [https://saurabhfarkade.netlify.app/]
+-  Portfolio [https://sugar-cosmetics-clone-27db.vercel.app/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
