@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saurabh Farkade</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m **MERN Stack** developer.
 
-- 💬 Ask me about **node.js , express.js , javascript,react **
+- 💬 Ask me about **node.js , express.js , javascript, react **
 
 - 📫 How to reach me **saurabhfarkade83@gmail.com**
 -  Portfolio [https://saurabhfarkade.vercel.app/]
