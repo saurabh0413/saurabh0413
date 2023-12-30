@@ -6,7 +6,7 @@
 - 💬 Ask me about **node.js , express.js , javascript, react **
 
 - 📫 How to reach me **saurabhfarkade83@gmail.com**
--  Portfolio [https://saurabhfarkade.vercel.app/]
+-  Portfolio 
 -  Funside->   Webseries on sunday's always. 
 
 <h3 align="left">Connect with me:</h3>
